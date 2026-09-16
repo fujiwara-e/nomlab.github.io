@@ -1,6 +1,6 @@
 +++
 date = '2026-09-16T09:11:24+09:00'
-draft = true
+draft = false 
 title = 'ノムニチが新しくなりました！'
 showAuthor = true
 authors = ['fujiwara-e']
