@@ -9,3 +9,6 @@ new:
 	SLUG=$$(echo "$$TITLE" | tr 'A-Z' 'a-z' | tr -s ' ' '-'); \
 	FILE="content/articles/$$DATE-$$SLUG/index.md"; \
 	HUGO_TITLE="$$TITLE" hugo new content "$$FILE"
+
+preview:
+	hugo server --disableFastRender -D
