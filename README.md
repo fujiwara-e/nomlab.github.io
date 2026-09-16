@@ -41,14 +41,22 @@ $ cd nomlab.github.io
 ```
 
 ### Init
-Module の依存関係を取得する．
+コミット前に下書きの記事をチェックする Git hook をインストールする．
 ```
-hugo mod get
+make init
 ```
+
+## Write article 
+記事の雛形を作成する．
+```
+make new
+```
+Title を入力し，YYYYMMDD-Title で content/articles/YYYYMMDD-title/index.md が作成される．
+index.md を編集することで，記事を執筆する．
 
 ## Launch embedded server
 Hugo の組み込み Web サーバを起動する．
 ```
-hugo server
+make preview
 ```
 `http://localhost:1313/lab/nom/` にアクセスすることで表示可能．
