@@ -2,7 +2,7 @@
 ##
 ## Makefile for nomnichi articles
 ## 
-.PHONY: new
+.PHONY: new preview init
 new:
 	@DATE=$$(date +%Y%m%d); \
 	printf "Title: %s-" "$$DATE"; read TITLE; \
@@ -12,3 +12,6 @@ new:
 
 preview:
 	hugo server --disableFastRender -D
+
+init:
+	@sh scripts/install-hooks.sh
