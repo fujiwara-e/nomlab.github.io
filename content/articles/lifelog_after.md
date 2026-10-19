@@ -6,7 +6,7 @@ showAuthor = true
 authors = ['mihara']
 +++
 
-<p>私はいろいろな形でLifelogを取っています．詳しくは随分前に書いたLifelogの記事<a href='http://www.swlab.cs.okayama-u.ac.jp/lab/nom/nomnichi/article/Lifelog'>http://www.swlab.cs.okayama-u.ac.jp/lab/nom/nomnichi/article/Lifelog</a>にて．</p>
+<p>私はいろいろな形でLifelogを取っています．詳しくは随分前に書いたLifelogの記事<a href='https://nomlab.github.io/lab/nom/articles/Lifelog/'>https://nomlab.github.io/lab/nom/articles/Lifelog/</a>にて．</p>
 <p>今回は，Lifelogをとっていて明確になった，自分の特性についてまとめてみたいと思います．</p>
 <p><!-- folding --></p>
 <p>(1) 金遣いがとても荒い</p>
