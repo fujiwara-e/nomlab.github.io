@@ -32,7 +32,7 @@ authors = ['nom']
 <li><a href="#sec-6">6. OB/OG の皆さんの講評 (概要)</a></li>
 <li><a href="#sec-7">7. 結果 (概要)</a></li>
 <li><a href="#sec-8">8. 反省感想</a></li>
-<li><a href="#sec-9">9. 当日の写真写真</a></li>
+<li><a href="#sec-9">9. 当日の写真</a></li>
 </ul>
 </div>
 </div>
@@ -62,12 +62,9 @@ authors = ['nom']
 今回は，OB/OG の皆さんに審査員となっていただきます．
 </p>
 
-<ul class="org-ul">
-<li>参考: 前回(第12回)の様子 <a href="http://www.swlab.cs.okayama-u.ac.jp/lab/nom/nomnichi/362/show">(ノムニチ)</a>，<a href="https://github.com/nomlab/nompedia/wiki/nomura-cup012">(内部向けGithub)</a>
-</li>
-<li>参考: <a href="https://github.com/nomlab/nompedia/wiki/nomura-cup026">今回の詳細版(内部向けGithub)</a>
-</li>
-</ul>
+- 参考: 前回(第12回)の様子 [(ノムニチ)](ushio-20110314-173200)，<a href="https://github.com/nomlab/nompedia/wiki/nomura-cup012">(内部向けGithub)</a>
+- 参考: <a href="https://github.com/nomlab/nompedia/wiki/nomura-cup026">今回の詳細版(内部向けGithub)</a>
+
 </div>
 </div>
 
@@ -92,7 +89,9 @@ authors = ['nom']
 <div class="outline-text-4" id="text-3-1-2">
 <ol class="org-ol">
 <li>審査期間開始までの間に「ノムニチ」に写真とその解説が公開記事としてアップロードされます
-<a href="http://www.swlab.cs.okayama-u.ac.jp/lab/nom/nomnichi/546/show">http://www.swlab.cs.okayama-u.ac.jp/lab/nom/nomnichi/546/show</a>
+
+[第26回乃村杯: フォトコンテスト](nomura-cup26)
+
 </li>
 
 <li>下記の各テーマ毎に 3枚 (A, B, C) づつ写真がアップロードされます．
