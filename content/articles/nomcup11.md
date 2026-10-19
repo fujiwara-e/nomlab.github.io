@@ -8,8 +8,9 @@ authors = ['ushio']
 
 <p>12/11に第11回乃村杯が開催されました．種目は麻雀です．東風戦を2回行い．合計点数で順位を競います．</p>
 <p><!-- folding --></p>
-<p>実は，去年も麻雀大会を行っています．
-<a href='/nomnichi/article/fujiwara-k-20090705-160700'>前回の記事</a></p>
+
+実は，去年も麻雀大会を行っています．[前回の記事](fujiwara-k-20090705-160700)
+
 <p>今回は，乃村研OBの方も参加され総勢16名，4卓を使っての大規模なものとなりました．
 以下，大会の様子．</p>
 <p><img width='240' src='https://lh5.googleusercontent.com/-Vc_CNVFl3yA/US3i58OY5PI/AAAAAAAAJ0U/pzn6BtWYxoA/20110210163627a.jpg' alt='20110210163627a.jpg'></p>
