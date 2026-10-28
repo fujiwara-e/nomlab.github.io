@@ -3,7 +3,7 @@ date = '2026-10-21T17:47:17+09:00'
 draft = false
 title = 'Take Me, Cake Me !'
 showAuthor = true
-authors = ['']
+authors = ['nom']
 +++
 こんにちは，乃村です．皆さんはケーキ好きですか?
 <!-- folding -->
