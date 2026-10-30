@@ -1,5 +1,5 @@
 +++
-title = '\[本\]プログラマーのジレンマ'
+title = '[本]プログラマーのジレンマ'
 date =  '2009-07-02T10:42:04+09:00'
 draft = false
 showAuthor = true

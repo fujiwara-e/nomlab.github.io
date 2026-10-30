@@ -1,7 +1,6 @@
 baseURL = 'https://nomlab.github.io/lab/nom'
 locale = 'ja'
 title = 'nomlab'
-disablePathToLower = true
 
 [markup.goldmark.renderer]
 unsafe = true
