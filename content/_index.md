@@ -20,6 +20,6 @@ title: "乃村研究室"
   - [新しいOSに関する研究開発グループ(New)](research/new)
   - [経済学部との連携](research/other)
 - 研究業績
-  - [発表論文一覧](https://gc.cs.okayama-u.ac.jp/lab/nom/bibs/index.html)
+  - [発表論文一覧](bibs)
   - [学位論文一覧](thesis)
 - [アクセス](access)
